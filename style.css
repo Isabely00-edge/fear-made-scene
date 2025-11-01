@@ -1,0 +1,23 @@
+#style.css
+
+header{
+        font-size: large;
+        font-weight: 600;
+        color: #ca7b0b;
+
+}
+
+.diplomata-sc-regular {
+  font-family: "Diplomata SC", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+body{
+  color: rgb(78, 17, 17);
+}
+
+html{
+  scroll-behavior:smooth ;
+}
+
