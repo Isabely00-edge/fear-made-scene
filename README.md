@@ -1,3 +1,3 @@
 # fear-made-scene
 ache o assassino
-(https://isabely00-edge.github.io/fear-o-site-certo.html/)
+https://isabely00-edge.github.io/fear-scene/
